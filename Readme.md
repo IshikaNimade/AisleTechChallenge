@@ -346,7 +346,7 @@ Before running the application, ensure you have the following:
 ### Project Setup
 1. Clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/ajitpatel/AisleAssignment.git
+https://github.com/IshikaNimade/AisleTechChallenge.git
 ```
 2. Open Android Studio and navigate to the project directory.
 3. Build and run the app on an Android emulator or a physical device.
