@@ -1,6 +1,6 @@
 # Aisle Assignment
 
-## Problem 1
+# Problem 1
 Aisle has millions of users from over 150 countries. Each user gets 10 free daily likes. Unused likes are not carried forward to the next day. The task is to refresh the number of daily likes at 12:00 pm according to the user's local time.
 
 ## Introduction
@@ -42,13 +42,13 @@ This solution aims to achieve a scalable approach in the Aisle Android applicati
 
 
 
-## Problem 2 
+# Problem 2 
 
 This Android project demonstrates the implementation of three screens based on the provided Figma design. 
 It utilizes Kotlin, MVVM architecture, Retrofit for API calls, and follows the described flow using the Phone number API, OTP API, and Notes API.
 
 
-### Features
+## Features
 - **User Authentication Flow:** The app guides the user through a seamless authentication process involving phone number verification and OTP entry.
 
 - **API Integration:** The project showcases how to interact with backend APIs using Retrofit for smooth data exchange between the app and the server.
@@ -63,7 +63,7 @@ It utilizes Kotlin, MVVM architecture, Retrofit for API calls, and follows the d
 
 
 
-### Screens
+## Screens
 - Screen 1: Phone Number Entry 
     - In this screen, the user can enter their phone number and country code. 
     - After clicking the Continue button, the Phone number API is called. 
@@ -80,7 +80,7 @@ It utilizes Kotlin, MVVM architecture, Retrofit for API calls, and follows the d
 
 
 
-### API Integration
+## API Integration
 - Base URL: https://app.aisle.co/V1
 
 - **Phone Number API**
@@ -323,7 +323,7 @@ It utilizes Kotlin, MVVM architecture, Retrofit for API calls, and follows the d
 
 
 
-### Architecture
+## Architecture
 The application follows the MVVM (Model-View-ViewModel) architectural pattern.
 
 The major components of the architecture are:
@@ -333,7 +333,7 @@ The major components of the architecture are:
 
 
 
-### Prerequisites
+## Prerequisites
 Before running the application, ensure you have the following:
 - Android Studio
 - Android SDK
@@ -343,7 +343,7 @@ Before running the application, ensure you have the following:
 
 
 
-### Project Setup
+## Project Setup
 1. Clone this repository to your local machine using the following command:
 ```
 https://github.com/IshikaNimade/AisleTechChallenge.git
@@ -362,7 +362,7 @@ To configure the application, follow these steps:
 
 
 
-### Usage
+## Usage
 1. Launch the app on your Android emulator or device.
 
 2. **Screen 1: Phone Number Entry**
@@ -380,7 +380,7 @@ To configure the application, follow these steps:
 
 
 
-### Screenshots
+## Screenshots
 
 #### Phone Number Screen
   <img src="screenshots/Screen1.jpeg" width="200">
